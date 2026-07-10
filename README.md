@@ -31,7 +31,6 @@ SECTION B: ABOUT ME
 
 Transform Your GitHub Profile in 1 Minute — Step-by-Step Guide Page 7
 PROMPT PART 2 — Copy both parts together as ONE prompt
-## PROMPT CONTINUED (Part 2 of 2) >>>
 SECTION C: TECH STACK
 - Add shields.io badges for ALL my technologies
 - Use colored badges with logos
